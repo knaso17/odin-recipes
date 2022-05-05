@@ -1,0 +1,28 @@
+* {
+  background-color: #f2eccf;
+}
+
+body {
+  padding-left: 40px;
+  padding-right: 40px;
+  background-color: #f1e6b0
+}
+
+ul a {
+  font-size: 22px;
+}
+
+li, p {
+  font-size: 18px;
+}
+
+h1, h2, h3 {
+  font-family: 'Tillana', cursive;
+  color: rgb(72, 61, 43);
+  background-color: #f1d9b0
+}
+
+img, .desc{
+  display: inline-block
+}
+
